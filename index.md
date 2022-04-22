@@ -1,3 +1,3 @@
 Blog: [juldhais.net](https://juldhais.net)
 
-Resume: [me.juldhais.net](https://me.juldhais.net)
+Resume: [about.juldhais.net](https://about.juldhais.net)
